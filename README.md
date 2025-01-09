@@ -31,7 +31,7 @@
 ```
 .\path_to_file\huffman.exe encode zippedfile.txt source.txt
 ```
-# Расрхивация 
+# Разархивация 
 ```
 .\path_to_file\huffman.exe decode zippedfile.txt source.txt
 ```
